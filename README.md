@@ -16,7 +16,7 @@ This repository contains a Power BI dashboard analyzing **Ecommerce Sales Data**
 ## 🖼 Dashboard Screenshots  
 ![Dashboard Overview](https://github.com/rajputayush625/ecommerce-data-visualization/blob/main/screenshots/%7B3DAEFD03-D092-45A7-8C00-7FFC6F2B29FF%7D.png?raw=true)  
 
-![Sales Insights](https://raw.githubusercontent.com/yourusername/Ecommerce-Sales-Dashboard/main/screenshots/dashboard2.png)  
+![Sales Insights](https://github.com/rajputayush625/ecommerce-data-visualization/blob/main/screenshots/%7B9959DD35-7EE4-4F46-8D47-5D4228256BFA%7D.png?raw=true)  
 
 ![Customer Analysis](https://raw.githubusercontent.com/yourusername/Ecommerce-Sales-Dashboard/main/screenshots/dashboard3.png)  
 
