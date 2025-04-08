@@ -14,7 +14,7 @@ This repository contains a Power BI dashboard analyzing **Ecommerce Sales Data**
 - 💰 **Profitability** – Regions and categories driving profits  
 
 ## 🖼 Dashboard Screenshots  
-![Dashboard Overview](https://raw.githubusercontent.com/yourusername/Ecommerce-Sales-Dashboard/main/screenshots/dashboard1.png)  
+![Dashboard Overview](https://github.com/rajputayush625/ecommerce-data-visualization/blob/main/screenshots/%7B3DAEFD03-D092-45A7-8C00-7FFC6F2B29FF%7D.png?raw=true)  
 
 ![Sales Insights](https://raw.githubusercontent.com/yourusername/Ecommerce-Sales-Dashboard/main/screenshots/dashboard2.png)  
 
